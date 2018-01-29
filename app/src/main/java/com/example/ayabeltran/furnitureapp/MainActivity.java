@@ -33,8 +33,8 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setHasFixedSize(true);
         recyclerView.setLayoutManager(mLayoutManager);
 
-        Toast.makeText(MainActivity.this,"Hello",Toast.LENGTH_LONG).show();
-        Toast.makeText(MainActivity.this,"Hello",Toast.LENGTH_LONG).show();
+        Toast.makeText(MainActivity.this,"nzo",Toast.LENGTH_LONG).show();
+        Toast.makeText(MainActivity.this,"nzo",Toast.LENGTH_LONG).show();
 
 
     }
