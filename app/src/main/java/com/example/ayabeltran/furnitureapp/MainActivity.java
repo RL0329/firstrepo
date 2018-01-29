@@ -34,6 +34,8 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(mLayoutManager);
 
         Toast.makeText(MainActivity.this,"Hello",Toast.LENGTH_LONG).show();
+        Toast.makeText(MainActivity.this,"Hello",Toast.LENGTH_LONG).show();
+
 
     }
 }
