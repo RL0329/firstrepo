@@ -41,4 +41,13 @@
         android:layout_below="@+id/displaycost"
         android:layout_marginTop="27dp"
         android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/displaytitle"
+        android:layout_alignTop="@+id/displaydecription"
+        android:layout_marginStart="28dp"
+        android:text="TextView" />
 </RelativeLayout>
